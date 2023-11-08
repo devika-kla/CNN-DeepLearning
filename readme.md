@@ -14,3 +14,5 @@ All images are 768 x 768 pixels in size and are in jpeg file format.
 Neural Network Architecture of MobileNet. a Depthwise Convolution layer. b Pointwise Convolution layer. c Depthwise Separable convolutions with Depthwise and Pointwise layers followed by batchnorm and ReLU
 
 ### PREDICTIONS
+![image](https://github.com/devika-kla/CNN-DeepLearning/assets/69448953/dd060264-9c4e-439b-a502-72414ee349b7)
+
